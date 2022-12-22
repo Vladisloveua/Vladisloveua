@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ostrynskyi Vladyslav</h1>
+<h1 align="center">Hi 👋, I'm Vladyslav Ostrynskyi</h1>
 <h3 align="center">Typical switcher from Ukraine</h3>
 
 <img align="right" alt="Coding" width="220" src="https://media.tenor.com/8iMyvddJvmIAAAAd/gachimuchi-steve-rambo.gif">
