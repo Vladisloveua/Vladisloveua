@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="220" src="https://media.tenor.com/8iMyvddJvmIAAAAd/gachimuchi-steve-rambo.gif">
 
-- 🌱 I’m currently learning **C#.NET,WPI,ASP.NET Core, Pyton, HTML,CSS,**
+- 🌱 I’m currently learning **C#.NET,WPI,ASP.NET Core, HTML,CSS,**
 
 - 📫 How to reach me **plombeeeer@gmail.com**
 
